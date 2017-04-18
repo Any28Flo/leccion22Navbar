@@ -1,0 +1,8 @@
+ul{
+  background-color: CC0068
+}
+li{
+  display: inline-block;
+  padding: 20px;
+  list-style: none;
+}
